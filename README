@@ -1,0 +1,3 @@
+Motion Planning algorithms for traversal in 2D as well as 3D
+
+1. RRT - The most common Rapidly Exploring Random Trees. The current code only builds the tree and does not deduce the shortest path.
